@@ -1,0 +1,16 @@
+body{
+background-position:center;
+
+}
+#dl{
+float:left;
+margin-left:20px;
+}
+#dr{
+float:right;  
+margin-right:20px;  
+}
+img{
+width:200px;
+border-radius:50%;
+}
